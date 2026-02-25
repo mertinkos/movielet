@@ -1,0 +1,11 @@
+# Virtual Environment
+movielet/
+.movielet/
+env/
+
+# Environment Variables
+.env
+
+# Python Cache Files
+__pycache__/
+*.pyc
